@@ -8,3 +8,9 @@ void add(int a, int b) {
   c = a + b;
   print(c);
 }
+
+void multiply(int a, int b) {
+  int c;
+  c = a * b;
+  print(c);
+}
