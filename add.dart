@@ -1,0 +1,4 @@
+void main() {
+  add(3, 4);
+  multiply(3, 4);
+}
